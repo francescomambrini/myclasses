@@ -1,0 +1,18 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader>
+        <!-- Header: Document metadata -->
+    </teiHeader>
+    <text>
+	    <front>
+            <!-- Prefatory Matter: title page, preface, dedication... -->
+        </front>
+	    <body>
+            <!-- Main body, divided in strucural units (div) -->
+	        <div>…</div>
+	    </body>
+	    <back>
+            <!-- Appendixes: back matter -->
+        </back>
+     </text>
+</TEI>
