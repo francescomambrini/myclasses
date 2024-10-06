@@ -1,0 +1,8 @@
+"ID","Title","Author","Date published","Word Count"," ""Vocabulary Size""","Most Frequent Words (general)","Most Frequent Words (no stopwords)"
+"Text1","Harry Potter And The Philosopher's Stone","J. K. Rowling","1997","99661",5845,"the (3627); and (1922); to (1860); he (1756); a (1686)","harry (1325); said (794); ron (429); hagrid (370); hermione (268)"
+"Text2","Harry Potter And The Chamber of Secrets","J. K. Rowling","1998","109923",6990,"the (4114); and (2183); to (2041); a (1809); harry (1654)","harry (1654); said (1218); ron (705); hermione (319); lockhart (234)"
+"Text3","Harry Potter And The Prisoner of Azkaban","J. K. Rowling","1999","139877",7529,"the (5118); and (2697); to (2623); a (2151); he (2098)","harry (2043); said (1477); ron (787); hermione (672); professor (416)"
+"Text4","Harry Potter And The Goblet of Fire","J. K. Rowling","2000","244738",10354,"the (9333); and (4964); to (4802); he (3987); of (3935)","harry (3166); said (2638); ron (1042); hermione (871); dumbledore (598)"
+"Text5","Harry Potter And The Order of the Phoenix","J. K. Rowling","2003","328597",12298,"the (11739); to (6344); and (6273); of (5356); he (5054)","harry (4087); said (3945); hermione (1307); ron (1305); dumbledore (656)"
+"Text6","Harry Potter And The Half-Blood Prince","J. K. Rowling","2005","218076",10324,"the (7523); to (4278); and (4069); he (3565); of (3410)","harry (2784); said (2441); dumbledore (1034); ron (876); hermione (694)"
+"Text7","Harry Potter And The Deathly Hallows","J. K. Rowling","2007","253109",11141,"the (10473); and (5552); to (4955); he (4223); of (4203)","harry (3141); said (1978); hermione (1222); ron (1173); wand (593)"
