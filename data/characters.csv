@@ -1,0 +1,55 @@
+Code,Name,isMain,isFemale,NovelAbbr,TokenNr
+1A,Catherine,True,True,D1,7040
+1B,Henry Tilney,True,False,D1,6149
+1D,Isabella Thorpe,False,True,D1,5657
+1E,John Thorpe,False,False,D1,2928
+1C,Eleanor Tilney,False,True,D1,1938
+1X,Others,False,False,D1,5218
+2A,Elinor,True,True,D2,9039
+2C,Marianne,False,True,D2,6580
+2K,Mrs Jennings,False,True,D2,5659
+2S,Willoughby,False,False,D2,5278
+2F,John Dashwood,False,False,D2,4462
+2Q,Lucy Steele,False,True,D2,3977
+2H,Colonel Brandon,False,False,D2,3700
+2D,Mrs Dashwood,False,True,D2,3560
+2B,Edward Ferras,True,False,D2,2359
+2P,Anne Steele,False,True,D2,2066
+2X,Others,False,False,D2,5654
+3A,Elizabeth,True,True,D3,13597
+3B,Darcy,True,False,D3,6399
+3D,Mrs Bennet,False,True,D3,6048
+3E,Jane,False,True,D3,5203
+3K,Collins,False,False,D3,4444
+3C,Mr Bennet,False,False,D3,3248
+3O,Mrs Gardiner,False,True,D3,2865
+3L,Lady Catherine,False,True,D3,2342
+3H,Lydia,False,True,D3,2214
+3J,Miss Bingley,False,True,D3,2127
+3V,Wickham,False,False,D3,2040
+3X,Others,False,False,D3,5449
+4B,Edmund,True,False,D4,14300
+4C,Mary Crawford,False,True,D4,13030
+4D,Henry Crawford,False,False,D4,6735
+4J,Mrs Norris,False,True,D4,6659
+4A,Fanny,True,True,D4,6117
+4E,Sir Thomas Bertram,False,False,D4,3953
+4G,Tom Bertram,False,False,D4,2995
+4F,Lady Bertram,False,True,D4,2162
+4X,Others,False,False,D4,7397
+5A,Emma,True,True,D5,21501
+5B,Mr Knightley,True,False,D5,10112
+5E,Frank Churchill,False,True,D5,8225
+5D,Miss Bates,False,True,D5,7624
+5I,Mrs Elton,False,True,D5,6415
+5M,Harriet Smith,False,True,D5,5274
+5P,Mr Woodhouse,False,False,D5,4639
+5O,Mrs Weston,False,True,D5,4144
+5N,Mr Weston,False,False,D5,3197
+5X,Others,False,False,D5,6926
+6A,Anne,True,True,D6,4336
+6V,Mrs Smith,False,True,D6,3985
+6P,Mary Musgrove,False,True,D6,3733
+6B,Wentworth,True,False,D6,3386
+6D,Admiral Croft,False,False,D6,2034
+6X,Others,False,False,D6,11241
