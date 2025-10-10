@@ -1,3 +1,5 @@
+# Setup Python for `digitools`
+
 🐍 Python Setup Guide for the class
 
 We’ll all use the **same Python environment** to avoid “it works on my computer” problems. Please follow the steps below.
